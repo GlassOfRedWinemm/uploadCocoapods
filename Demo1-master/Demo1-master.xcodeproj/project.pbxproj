@@ -84,8 +84,6 @@
 		940DA20421880CEE006B1B20 = {
 			isa = PBXGroup;
 			children = (
-				940DA24321880D3C006B1B20 /* CustomView.h */,
-				940DA24421880D3C006B1B20 /* CustomView.m */,
 				940DA24221880D19006B1B20 /* CustomView */,
 				940DA20F21880CEE006B1B20 /* Demo1-master */,
 				940DA22821880CEE006B1B20 /* Demo1-masterTests */,
@@ -141,6 +139,8 @@
 		940DA24221880D19006B1B20 /* CustomView */ = {
 			isa = PBXGroup;
 			children = (
+				940DA24321880D3C006B1B20 /* CustomView.h */,
+				940DA24421880D3C006B1B20 /* CustomView.m */,
 			);
 			path = CustomView;
 			sourceTree = "<group>";
